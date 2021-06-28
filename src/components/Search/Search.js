@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import ItemStatusFilter from '../ItemStatusFilter/ItemStatusFilter'
 import "./Search.css";
 
 export default class Search extends Component {
